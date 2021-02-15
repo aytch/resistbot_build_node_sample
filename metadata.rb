@@ -1,0 +1,5 @@
+name 'resistbot_build_node'
+maintainer '@resistbotatwork'
+description 'wraps the macos cookbook to install xcode'
+version '0.1'
+depends 'macos'
